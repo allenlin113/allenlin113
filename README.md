@@ -17,10 +17,14 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)
 
 
+
+
+
 <!--
 - Emojis https://www.webfx.com/tools/emoji-cheat-sheet/
 - Writing on GitHub https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github
 - Markdown Badges https://github.com/Ileriayo/markdown-badges
 
 - Resume [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://knlnks.github.io/resume/Kunalan_Kevin_Subagaran_Resume.pdf)
+- ![Visitor Count](https://profile-counter.glitch.me/{allenlin113}/count.svg)
 -->
